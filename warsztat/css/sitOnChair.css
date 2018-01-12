@@ -46,4 +46,11 @@ nav {
 
 .sectionLeft {
     background-image: url("../images/black_chair.png");
+    float: left;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 300px;
+    background-size: 300px 300px;
+    margin-top: 5px;
 }
